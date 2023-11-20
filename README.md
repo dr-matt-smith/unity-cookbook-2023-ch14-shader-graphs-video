@@ -16,5 +16,6 @@ The **completed** Unity projects for each example can be found in their own repo
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch14-05-play-sequence-of-videos
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch14-06-shader-graph
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch14-07-shader-graph2
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch14-08-shader-graph3-glow-effect
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch14-06c-shader-graph3-glow-effect
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch14-06d-shader-graph4-glow-effect
